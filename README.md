@@ -5,3 +5,5 @@ LoRA学習用のkohya GUIのセットアップスクリプトをまとめたノ�
 
 ## referrence
 https://github.com/bmaltais/kohya_ss
+<br>
+https://romptn.com/article/23173
